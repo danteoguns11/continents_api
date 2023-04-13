@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Asia",
+        "population": {
+            "size": 4641054775,
+            "share %": 59.54
+        },
+        "id": 1
+    },
+    {
+        "name": "Africa",
+        "population": {
+            "size": 1340598147,
+            "share %": 17.20
+        },
+        "id": 2
+    },
+    {
+        "name": "Europe",
+        "population": {
+            "size": 747636026,
+            "share %": 9.59
+        },
+        "id": 3
+    },
+    {
+        "name": "North America",
+        "population": {
+            "size": 592072212,
+            "share %": 7.60
+        },
+        "id": 4
+    },
+    {
+        "name": "South America",
+        "population": {
+            "size": 430759766,
+            "share %": 5.53
+        },
+        "id": 5
+    },
+    {
+        "name": "Australia",
+        "population": {
+            "size": 43111704,
+            "share %": 0.55
+        },
+        "id": 6
+    },
+    {
+        "name": "Antarctica",
+        "population": {
+            "size": 0,
+            "share %": 0.00
+        },
+        "id": 7
+    }
+]
